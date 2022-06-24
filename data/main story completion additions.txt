@@ -334,7 +334,7 @@ event "humans know hai"
 		add variant 1
 			"Centipede"
 			"Pond Strider"
-			"Flea" 8
+			"Flea (Pulse)" 8
 			"Geocoris (Tracker)"
 			"Lightning Bug"
 			"Water Bug"
@@ -384,10 +384,10 @@ event "humans know hai"
 		add variant 1
 			"Pond Strider (Tracker)"
 			"Pond Strider (Railgun)"
-			"Flea" 16
+			"Flea (Pulse)" 16
 		add variant 1
 			"Pond Strider (Electron)"
-			"Flea" 8
+			"Flea (Pulse)" 8
 			"Lightning Bug (Pulse)" 2
 		add variant 1
 			"Pond Strider"
@@ -395,10 +395,10 @@ event "humans know hai"
 			"Lightning Bug" 2
 		add variant 1
 			"Pond Strider (Ion)" 2
-			"Flea" 16
+			"Flea (Pulse)" 16
 		add variant 1
 			"Pond Strider"
-			"Flea" 8
+			"Flea (Pulse)" 8
 		add variant 1
 			"Pond Strider (Pulse)"
 			"Flea (Pulse)" 8
@@ -409,17 +409,17 @@ event "humans know hai"
 		add variant 1
 			"Pond Strider (Tracker)"
 			"Pond Strider (Railgun)"
-			"Flea" 16
+			"Flea (Pulse)" 16
 		add variant 1
 			"Pond Strider (Proton)"
-			"Flea" 8
+			"Flea (Pulse)" 8
 			"Lightning Bug (Proton)" 2
 		add variant 1
 			"Pond Strider (Ion)" 2
-			"Flea" 16
+			"Flea (Pulse)" 16
 		add variant 1
 			"Pond Strider (Proton)"
-			"Flea" 8
+			"Flea (Pulse)" 8
 		add variant 1
 			"Pond Strider (Pulse)"
 			"Flea (Pulse)" 8
