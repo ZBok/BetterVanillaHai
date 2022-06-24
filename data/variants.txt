@@ -4,20 +4,19 @@ ship "Shield Beetle" "Shield Beetle (Proton)"
 		`"Bufaer" Atomic Steering`
 		"Boulder Reactor"
 		"Bullfrog Anti-Missile"
-		"Cargo Scanner" 2
 		"Chameleon Anti-Missile"
 		"Geode Reactor"
 		"Hai Diamond Regenerator"
 		"Hai Gorge Batteries"
 		Hyperdrive
 		"Liquid Helium Cooler"
-		"Outfit Scanner" 2
 		"Outfits Expansion"
 		"Proton Gun" 8
 		"Proton Turret" 2
 		"Quantum Keystone"
 		"S-970 Regenerator"
 		"Water Coolant System"
+		"Pulse Rifle" 80
 	turret "Chameleon Anti-Missile"
 	turret "Bullfrog Anti-Missile"
 	turret "Proton Turret"
@@ -29,7 +28,6 @@ ship "Shield Beetle" "Shield Beetle (Particle)"
 		`"Bondir" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		"Boulder Reactor"
-		"Cargo Scanner" 3
 		"Chameleon Anti-Missile" 2
 		"Geode Reactor"
 		"Hai Diamond Regenerator" 2
@@ -37,10 +35,10 @@ ship "Shield Beetle" "Shield Beetle (Particle)"
 		Hyperdrive
 		"Liquid Helium Cooler"
 		"Modified Blaster Turret" 2
-		"Outfit Scanner" 3
 		"Outfits Expansion"
 		"Particle Cannon" 8
 		"Quantum Keystone"
+		"Pulse Rifle" 80
 	turret "Chameleon Anti-Missile"
 	turret "Chameleon Anti-Missile"
 	turret "Modified Blaster Turret"
@@ -53,7 +51,6 @@ ship "Shield Beetle" "Shield Beetle (Electron)"
 		`"Bufaer" Atomic Steering`
 		"Boulder Reactor"
 		"Breeder Reactor"
-		"Cargo Scanner" 2
 		"Chameleon Anti-Missile" 2
 		"Electron Beam" 8
 		"Electron Turret" 2
@@ -61,8 +58,8 @@ ship "Shield Beetle" "Shield Beetle (Electron)"
 		"Hai Ravine Batteries"
 		Hyperdrive
 		"Liquid Helium Cooler"
-		"Outfit Scanner" 2
 		"Quantum Keystone"
+		"Pulse Rifle" 80
 	turret "Chameleon Anti-Missile"
 	turret "Chameleon Anti-Missile"
 	turret "Electron Turret"
@@ -74,19 +71,18 @@ ship "Shield Beetle" "Shield Beetle (Plasma)"
 		`"Bondir" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		"Boulder Reactor"
-		"Cargo Scanner" 2
 		"Chameleon Anti-Missile" 2
 		"Geode Reactor"
 		"Hai Ravine Batteries"
 		Hyperdrive
 		"Liquid Helium Cooler"
 		"Liquid Nitrogen Cooler"
-		"Outfit Scanner" 2
 		"Outfits Expansion"
 		"Plasma Cannon" 8
 		"Pulse Turret" 2
 		"Quantum Keystone"
 		"S-970 Regenerator" 2
+		"Pulse Rifle" 80
 	turret "Chameleon Anti-Missile"
 	turret "Chameleon Anti-Missile"
 	turret "Pulse Turret"
@@ -99,7 +95,6 @@ ship "Solifuge" "Solifuge (Proton)"
 		"A520 Atomic Thruster"
 		"Boulder Reactor"
 		"Bullfrog Anti-Missile"
-		"Cargo Scanner" 2
 		"Chameleon Anti-Missile"
 		"Geode Reactor"
 		"Hai Diamond Regenerator"
@@ -107,11 +102,11 @@ ship "Solifuge" "Solifuge (Proton)"
 		Hyperdrive
 		"Liquid Helium Cooler"
 		"Liquid Nitrogen Cooler"
-		"Outfit Scanner" 2
 		"Proton Gun" 5
 		"Proton Turret" 5
 		"Quantum Keystone"
 		"S-270 Regenerator"
+		"Pulse Rifle" 100
 	turret "Proton Turret"
 	turret "Chameleon Anti-Missile"
 	turret "Bullfrog Anti-Missile"
@@ -126,16 +121,15 @@ ship "Solifuge" "Solifuge (Electron)"
 		"A525 Atomic Steering"
 		"Boulder Reactor" 2
 		"Bullfrog Anti-Missile"
-		"Cargo Scanner" 2
 		"Electron Turret" 6
 		"Hai Fissure Batteries"
 		Hyperdrive
 		"Liquid Helium Cooler"
-		"Outfit Scanner"
 		"Outfits Expansion"
 		"Quantum Keystone"
 		"S-970 Regenerator" 2
 		"Water Coolant System"
+		"Pulse Rifle" 100
 	turret "Bullfrog Anti-Missile"
 	turret "Electron Turret"
 	turret "Electron Turret"
@@ -151,19 +145,18 @@ ship "Solifuge" "Solifuge (Plasma)"
 		`"Bondir" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		"Boulder Reactor"
-		"Cargo Scanner" 2
 		"Chameleon Anti-Missile"
 		"Geode Reactor"
 		"Hai Diamond Regenerator"
 		"Hai Gorge Batteries"
 		Hyperdrive
 		"Liquid Helium Cooler" 2
-		"Outfit Scanner" 2
 		"Outfits Expansion"
 		"Plasma Cannon" 5
 		"Plasma Turret" 2
 		"Quad Blaster Turret" 3
 		"Quantum Keystone"
+		"Pulse Rifle" 100
 	turret "Chameleon Anti-Missile"
 	turret "Plasma Turret"
 	turret "Plasma Turret"
@@ -177,16 +170,14 @@ ship "Pond Strider" "Pond Strider (Proton)"
 	outfits
 		`"Biroo" Atomic Steering`
 		`"Biroo" Atomic Thruster`
-		"Cargo Scanner" 3
 		"Chameleon Anti-Missile"
 		"Geode Reactor"
 		Hyperdrive
 		"LP072a Battery Pack"
 		"Liquid Nitrogen Cooler"
-		"Outfit Scanner"
 		"Outfits Expansion"
 		"Proton Turret" 2
-		"Pulse Rifle" 9
+		"Pulse Rifle" 15
 		"Quantum Keystone"
 		"S-970 Regenerator"
 		"Sidewinder Missile" 135
@@ -201,7 +192,6 @@ ship "Pond Strider" "Pond Strider (Electron)"
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Bullfrog Anti-Missile" 2
-		"Cargo Scanner" 2
 		"Electron Beam" 3
 		"Electron Turret"
 		"Geode Reactor"
@@ -209,9 +199,8 @@ ship "Pond Strider" "Pond Strider (Electron)"
 		"Hai Fissure Batteries"
 		Hyperdrive
 		"Liquid Nitrogen Cooler"
-		"Outfit Scanner"
 		"Outfits Expansion"
-		"Pulse Rifle" 9
+		"Pulse Rifle" 15
 		"Quantum Keystone"
 		"S-970 Regenerator"
 	turret "Bullfrog Anti-Missile"
@@ -224,15 +213,13 @@ ship "Pond Strider" "Pond Strider (Particle)"
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Bullfrog Anti-Missile" 2
-		"Cargo Scanner" 3
 		"Geode Reactor"
 		"Hai Gorge Batteries"
 		Hyperdrive
 		"Liquid Nitrogen Cooler"
-		"Outfit Scanner"
 		"Outfits Expansion"
 		"Particle Cannon" 3
-		"Pulse Rifle" 9
+		"Pulse Rifle" 15
 		"Quad Blaster Turret"
 		"Quantum Keystone"
 		"S-270 Regenerator" 2
